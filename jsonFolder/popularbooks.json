@@ -1,0 +1,39 @@
+[
+    {
+      "rating": "4.5",
+      "title":"THE WATER CURE",
+      "text":"Martin Hyatt",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJ0vOKxX9XnAuAKeZZMedjrAbPc3oHWewmA&s",
+      "audio": "Voices.mp3"
+    },
+    {
+      "rating": "4.6",
+      "title":"PEACE LIFE",
+      "text":"Hazard Bin",
+      "img": "https://th.bing.com/th/id/OIP.HPZJ5c3qhcjibm7IpRkfOQHaD4?rs=1&pid=ImgDetMain",
+      "audio": "June - Bobby Richards.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Day Remember",
+      "text":"Nicholos",
+      "img": "https://th.bing.com/th/id/OIP.mTSvNwJTXF6hmlFdnqzR7QHaEK?w=900&h=506&rs=1&pid=ImgDetMain",
+      "audio": "Muriel - Bobby Richards.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"France",
+      "text":"Paris",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJ0vOKxX9XnAuAKeZZMedjrAbPc3oHWewmA&s",
+      "audio": "Piano Trap.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Germany",
+      "text":"Berlin",
+      "img": "https://th.bing.com/th/id/OIP._7r2T3GcXk5oYIrsBzoUDQHaE8?rs=1&pid=ImgDetMain",
+      "audio": "Voices.mp3"
+    }
+  
+  
+  ]
